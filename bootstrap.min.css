@@ -1,0 +1,6 @@
+.navbar{
+  display: block;
+}
+navbar navbar-expand-md navbar-dark bg-dark{
+  background-color: white;
+}
